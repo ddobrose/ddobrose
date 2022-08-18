@@ -12,12 +12,10 @@
 
 ### Connect with me:
 
-[![website]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg")](https://www.daviddobrose.com/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.daviddobrose.com/#gh-dark-mode-only)
+[<img align="left" alt="My LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][(https://www.linkedin.com/in/david-dobrose/)]
 &nbsp;&nbsp;
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/david-dobrose#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/david-dobrose#gh-dark-mode-only)
+[<img align="left" alt="My portfolio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="padding-right:10px;" />][(https://www.daviddobrose.com/)]
 &nbsp;&nbsp;
 
 ### Languages and Tools:
