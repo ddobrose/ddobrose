@@ -1,6 +1,6 @@
 ### Hi there, I'm David - aka [ddobrose][https://www.daviddobrose.com/] 👋
 
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/david-dobrose/)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-dobrose/)
 [![My Portfolio Website](https://img.shields.io/website?label=daviddobrose.com&style=for-the-badge&url=https%3A%2F%2Fdaviddobrose.com)](https://www.daviddobrose.com/)
 
 
