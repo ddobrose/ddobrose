@@ -42,7 +42,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="ddobrose GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ddobrose&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+<div style="flex">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddobrose&hide=html,css,jupyter%20notebook,ejs,Procfile,Dockerfile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7" />
+<img src="https://github-readme-stats.vercel.app/api?username=ddobrose&show_icons=true&theme=gotham" alt="ddobrose" />
+</div>
 </details>
