@@ -10,10 +10,10 @@
 - 🥅 2022 Goals: Find my career and contribute to Open Source projects
 - ⚡ Fun fact: I played tennis in college and love playing  pool:8ball: in my spare time
 
+### Connect with me:
 
-
-<img align="left" alt="My portfolio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="padding-right:10px;" />
-&nbsp;&nbsp;
+ -<a href="https://www.linkedin.com/in/david-dobrose">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+  -<a href="mailto:ddobrose@yahoo.com?subject=[GitHub]%20Reaching%20Out"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a
 
 ### Languages and Tools:
 
