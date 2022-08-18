@@ -40,10 +40,10 @@
 <br />
 
 
-<details>
+
   <h2>:zap: GitHub Stats</h2>
 <div style="flex">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddobrose&hide=html,css,jupyter%20notebook,ejs,Procfile,Dockerfile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7" />
 <img src="https://github-readme-stats.vercel.app/api?username=ddobrose&show_icons=true&theme=gotham" alt="ddobrose" />
 </div>
-</details>
+
