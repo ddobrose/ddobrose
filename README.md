@@ -10,10 +10,7 @@
 - 🥅 2022 Goals: Find my career and contribute to Open Source projects
 - ⚡ Fun fact: I played tennis in college and love playing  pool:8ball: in my spare time
 
-### Connect with me:
 
-<img align="left" alt="My LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
-&nbsp;&nbsp;
 
 <img align="left" alt="My portfolio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="padding-right:10px;" />
 &nbsp;&nbsp;
