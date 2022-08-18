@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.daviddobrose.com/#gh-light-mode-only)
+[![website]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg")](https://www.daviddobrose.com/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://www.daviddobrose.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
