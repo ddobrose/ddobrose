@@ -1,7 +1,7 @@
 ### Hi there, I'm David - aka [ddobrose][https://www.daviddobrose.com/] 👋
 
-[![My Portfolio Website](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][https://www.daviddobrose.com/]
-[![My LinkedIn](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/david-dobrose/)
+[![My LinkedIn]][https://www.linkedin.com/in/david-dobrose/]
+[![My Portfolio Website](https://img.shields.io/website?label=daviddobrose.com.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.daviddobrose.com/)
 
 
 ## I'm a Future husband(dec 4, 2022), Developer, and dog dad!!
