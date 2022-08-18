@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
- -<a href="https://www.linkedin.com/in/david-dobrose">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
-  -<a href="mailto:ddobrose@yahoo.com?subject=[GitHub]%20Reaching%20Out"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a
+ <a href="https://www.linkedin.com/in/david-dobrose">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+<a href="mailto:ddobrose@yahoo.com?subject=[GitHub]%20Reaching%20Out"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 ### Languages and Tools:
 
