@@ -4,10 +4,10 @@
 [![My Portfolio Website](https://img.shields.io/website?label=daviddobrose.com&style=for-the-badge&url=https%3A%2F%2Fdaviddobrose.com)](https://www.daviddobrose.com/)
 
 
-## I'm a Future husband(dec 4, 2022), Developer, and dog dad!!
+## I'm a proud father (8/9/23) and devoted husband (12/4/22) , Developer, and dog dad!!
 
-- 🌱 I’m a recent bootcamp graduate looking for a role where I can make an impact and grow my skills!
-- 🥅 2022 Goals: Find my career and contribute to Open Source projects
+-  :nerd_face: I’m a professional Software Engineer working in Fintech!
+- 🌱 Currently learning NX and Typescript
 - ⚡ Fun fact: I played tennis in college and love playing  pool:8ball: in my spare time
 
 ### Connect with me:
