@@ -6,7 +6,7 @@
 
 ## I'm a proud father (8/9/23) and devoted husband (12/4/22) , Developer, and dog dad!!
 
--  :nerd_face: I’m a professional Software Engineer working in Fintech!
+-  :nerd_face: I’m a Software Engineer working in Fintech!
 - 🌱 Currently learning NX and Typescript
 - ⚡ Fun fact: I played tennis in college and love playing  pool:8ball: in my spare time
 
